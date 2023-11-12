@@ -1,0 +1,8 @@
+h2, i{
+  color: rgb(44, 62, 80);
+}
+.line {
+  background-color: rgb(44, 62, 80);
+  height: 4px;
+  width: 80px;
+}
